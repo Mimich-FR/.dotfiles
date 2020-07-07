@@ -11,6 +11,8 @@ Os: [ArchLinux](https://archlinux.org/)
 - Web-Browser: [FireFox](https://www.mozilla.org)
 - Password-Manager: [BitWarden](https://bitwarden.com/)
 - Image-Editor: [Gimp](https://www.gimp.org/)
+- Editor: [Atom](https://atom.io/)
+- Terminal-Info: `Neofetch`
 
 **Graphic-Theme:**
 
