@@ -13,6 +13,7 @@ Os: [ArchLinux](https://archlinux.org/)
 - Image-Editor: [Gimp](https://www.gimp.org/)
 - Editor: [Atom](https://atom.io/)
 - Terminal-Info: `Neofetch`
+- Chat: [Discord](https://discord.com)([BetterDiscord](https://betterdiscord.net/))
 
 **Graphic-Theme:**
 
