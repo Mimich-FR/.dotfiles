@@ -14,13 +14,13 @@ Os: [ArchLinux](https://archlinux.org/)
 - Editor: [Atom](https://atom.io/)
 - Terminal-Info: `Neofetch`
 - Chat: [Discord](https://discord.com)([BetterDiscord](https://betterdiscord.net/))
+- Games-Launcher: [Steam](https://steampowered.com)
 
 **Graphic-Theme:**
 
 - Application: Vimix-Ruby
 - Cursors: Vimix-Cursors-White
 - Icone: Tela-Purple
-- Custom-Bar: Polybar
 
 **Security:**
 - Rkhunter
@@ -39,3 +39,5 @@ With a best subtools for manage project.
 
 - [Intellij](https://www.jetbrains.com/idea/) `Java/Groovy/Kotlin/Scala/Web-language/Python`
 - [CLion](https://www.jetbrains.com/clion/) `Arduino/C#/C++`
+
+
