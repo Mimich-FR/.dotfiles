@@ -46,6 +46,7 @@ With a best subtools for manage project.
 - CPU: `I7-7700HQ 2.80GHZ`
 - GPU: `NVIDIA Geforce GTX 1060 Mobile 6GB GDDR5`
 - RAM: `8GB`
+
 **Games:**
 
 - `Company Of Heroes 2`(Thanks Cousin) 
