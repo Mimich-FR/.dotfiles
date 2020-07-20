@@ -15,8 +15,8 @@ Os: [ArchLinux](https://archlinux.org/)
 - Terminal-Info: `Neofetch`
 - Chat: [Discord](https://discord.com)([BetterDiscord](https://betterdiscord.net/))
 - Games-Launcher: [Steam](https://steampowered.com)
-- Hardware-Usage-Informations: Htop
-- Display-manager: Sddm
+- Hardware-Usage-Informations: `Htop`
+- Display-manager: `Sddm`
 **Graphic-Theme:**
 
 - Application: Vimix-Ruby
@@ -41,4 +41,13 @@ With a best subtools for manage project.
 - [Intellij](https://www.jetbrains.com/idea/) `Java/Groovy/Kotlin/Scala/Web-language/Python`
 - [CLion](https://www.jetbrains.com/clion/) `Arduino/C#/C++`
 
+**Hardware:**
+
+- CPU: `I7-7700HQ 2.80GHZ`
+- GPU: `NVIDIA Geforce GTX 1060 Mobile 6GB GDDR5`
+- RAM: `8GB`
+**Games:**
+
+- `Company Of Heroes 2`(Thanks Cousin) 
+- `Kunker`
 
