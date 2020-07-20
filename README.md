@@ -15,7 +15,8 @@ Os: [ArchLinux](https://archlinux.org/)
 - Terminal-Info: `Neofetch`
 - Chat: [Discord](https://discord.com)([BetterDiscord](https://betterdiscord.net/))
 - Games-Launcher: [Steam](https://steampowered.com)
-
+- Hardware-Usage-Informations: Htop
+- Display-manager: Sddm
 **Graphic-Theme:**
 
 - Application: Vimix-Ruby
