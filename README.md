@@ -17,6 +17,7 @@ Os: [ArchLinux](https://archlinux.org/)
 - Games-Launcher: [Steam](https://steampowered.com)
 - Hardware-Usage-Informations: `Htop`
 - Display-manager: `Sddm`
+
 **Graphic-Theme:**
 
 - Application: Vimix-Ruby
