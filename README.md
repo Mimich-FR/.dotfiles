@@ -16,7 +16,7 @@ Os: [ArchLinux](https://archlinux.org/)
 - Chat: [Discord](https://discord.com)([BetterDiscord](https://betterdiscord.net/))
 - Games-Launcher: [Steam](https://steampowered.com)
 - Hardware-Usage-Informations: `Htop`
-- Display-manager: `Sddm`
+- Display-manager: `Sddm` (Theme: McMojave)
 
 **Graphic-Theme:**
 
