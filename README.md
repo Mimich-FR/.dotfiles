@@ -11,18 +11,13 @@ Os: [ArchLinux](https://archlinux.org/)
 - Web-Browser: [FireFox](https://www.mozilla.org)
 - Password-Manager: [BitWarden](https://bitwarden.com/)
 - Image-Editor: [Gimp](https://www.gimp.org/)
-- Editor: [Atom](https://atom.io/)
-- Terminal-Info: `Neofetch`
-- Chat: [Discord](https://discord.com)([BetterDiscord](https://betterdiscord.net/))
-- Games-Launcher: [Steam](https://steampowered.com)
-- Hardware-Usage-Informations: `Htop`
-- Display-manager: `Sddm` (Theme: McMojave)
 
 **Graphic-Theme:**
 
 - Application: Vimix-Ruby
 - Cursors: Vimix-Cursors-White
 - Icone: Tela-Purple
+- Custom-Bar: Polybar
 
 **Security:**
 - Rkhunter
@@ -41,15 +36,3 @@ With a best subtools for manage project.
 
 - [Intellij](https://www.jetbrains.com/idea/) `Java/Groovy/Kotlin/Scala/Web-language/Python`
 - [CLion](https://www.jetbrains.com/clion/) `Arduino/C#/C++`
-
-**Hardware:**
-
-- CPU: `I7-7700HQ 2.80GHZ`
-- GPU: `NVIDIA Geforce GTX 1060 Mobile 6GB GDDR5`
-- RAM: `8GB`
-
-**Games:**
-
-- `Company Of Heroes 2`(Thanks Cousin) 
-- `Kunker`
-
