@@ -5,19 +5,17 @@ Os: [ArchLinux](https://archlinux.org/)
 **App:**
 
 - Shell: `Zsh`([OhMyZsh](https://github.com/ohmyzsh/ohmyzsh))
-- Terminal: [Alacritty](https://github.com/alacritty/alacritty)
-- Graphic-Environement: `KDE`([Plasma](https://kde.org/plasma-desktop))
-- Window-Manager: `Kwin`
+- Terminal: Gnome-Terminal
+- Graphic-Environment: [Gnome](https://www.gnome.org/)
 - Web-Browser: [FireFox](https://www.mozilla.org)
 - Password-Manager: [BitWarden](https://bitwarden.com/)
 - Image-Editor: [Gimp](https://www.gimp.org/)
+- Video-Editor[DaVinci-Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 
 **Graphic-Theme:**
 
-- Application: Vimix-Ruby
-- Cursors: Vimix-Cursors-White
-- Icone: Tela-Purple
-- Custom-Bar: Polybar
+- Application: [WhiteSur](https://github.com/vinceliuice/WhiteSur-gtk-theme)
+- Cursor: [McMojave](https://github.com/vinceliuice/McMojave-cursors)
 
 **Security:**
 - Rkhunter
@@ -25,14 +23,9 @@ Os: [ArchLinux](https://archlinux.org/)
 - [TorBrowser](https://www.torproject.org/download/)
 
 **Coding:**
-
-Funfact:
-
-I love it a jetbrains distributions was just a best IDE suite for developers.
-
-With a best subtools for manage project.
-
 **IDE:**
-
 - [Intellij](https://www.jetbrains.com/idea/) `Java/Groovy/Kotlin/Scala/Web-language/Python`
 - [CLion](https://www.jetbrains.com/clion/) `Arduino/C#/C++`
+
+## Preview
+![Desktop](preview.png)
