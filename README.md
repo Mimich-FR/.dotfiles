@@ -19,7 +19,7 @@ Os: [ArchLinux](https://archlinux.org/)
 
 **Security:**
 - Rkhunter
-- [Clamv](https://www.clamv.net/)
+- [Clamv](https://www.clamav.net/)
 - [TorBrowser](https://www.torproject.org/download/)
 
 **Coding:**
